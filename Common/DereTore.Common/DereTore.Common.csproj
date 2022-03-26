@@ -9,8 +9,8 @@
     <PropertyGroup>
         <PackageId>DereTore.Common</PackageId>
         <Authors>OpenCGSS,Kiruya Momochi</Authors>
-        <PackageProjectUrl>https://github.com/KiruyaMomochi/HcaConverterCore</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/KiruyaMomochi/HcaConverterCore</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/KiruyaMomochi/DereTore</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/KiruyaMomochi/DereTore</RepositoryUrl>
         <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     </PropertyGroup>
     
