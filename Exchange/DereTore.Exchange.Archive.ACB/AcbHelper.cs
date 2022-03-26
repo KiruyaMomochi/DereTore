@@ -95,7 +95,7 @@ namespace DereTore.Exchange.Archive.ACB {
             return Md5.ComputeHash(data);
         }
 
-        private static readonly MD5 Md5 = new MD5CryptoServiceProvider();
+        private static readonly MD5 Md5 = MD5.Create();
 
     }
 }
